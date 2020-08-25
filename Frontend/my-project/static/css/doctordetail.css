@@ -1,0 +1,43 @@
+.row {
+    margin-top: 25px;
+}
+
+.side-bar .personal-info {
+    padding: 0px;
+}
+
+.side-bar img {
+    max-width: 100%;
+    margin: 0px;
+}
+
+.side-bar img {
+    padding-left: 0px;
+}
+
+.delete_button {
+    margin-top: 14px;
+    margin-bottom: 12px;
+    display: inline-block;
+    padding: 8px 20px;
+    font-family: Montserrat-Regular;
+    font-size: 14px;
+    line-height: 1.4;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: rgb(255, 255, 255);
+    background-color: #e61212;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+  }
+
+  .delete_button:hover {background-color: #96141f}
+
+  .delete_button:active {
+    background-color: #96141f;
+    box-shadow: 0 3px #666;
+    transform: translateY(2px);
+  }

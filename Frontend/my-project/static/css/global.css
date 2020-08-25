@@ -1,0 +1,139 @@
+/* Add this to the App.vue file
+<style src="../../static/css/global.css">
+</style> */
+
+/* Add this function to the script file of the Signin.vue file
+beforeCreate: function () {
+    document.body.classList.add('signin')
+} */
+/* body.signin {
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+    background-color: #85888b;
+} */
+
+/* Add this function to the script file of the Signup.vue file
+beforeCreate: function () {
+    document.body.classList.add('signup')
+} */
+body.signup {
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+    background-color: #85888b;
+}
+
+/* Add this function to the script file of the DoctorHome.vue file
+beforeCreate: function () {
+    document.body.classList.add('doctorhome')
+} */
+body.doctorhome {
+    background: #FFF;
+    font-weight: normal;
+    position: relative;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* Add this function to the script file of the DoctorHome.vue file
+beforeCreate: function () {
+    document.body.classList.add('doctorbookingtable')
+} */
+body.doctorbookingtable {
+    background: #FFF;
+    font-weight: normal;
+    position: relative;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* Add this function to the script file of the UserHome.vue file
+beforeCreate: function () {
+    document.body.classList.add('userhome')
+} */
+body.userhome {
+    background: #FFF;
+    font-weight: normal;
+    position: relative;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* Add this function to the script file of the UserHome.vue file
+beforeCreate: function () {
+    document.body.classList.add('userbookingtable')
+} */
+body.userbookingtable {
+    background: #FFF;
+    font-weight: normal;
+    position: relative;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* Add this function to the script file of the AdminHome.vue file
+beforeCreate: function () {
+    document.body.classList.add('adminhome')
+} */
+body.adminhome {
+    background: #FFF;
+    font-weight: normal;
+    position: relative;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* Add this function to the script file of the DoctorDetail.vue file
+beforeCreate: function () {
+    document.body.classList.add('doctordetail')
+} */
+body.doctordetail {
+    background: #FFF;
+    font-weight: normal;
+    position: relative;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* Add this function to the script file of the AddDoctor.vue file
+beforeCreate: function () {
+    document.body.classList.add('adddoctor')
+} */
+body.adddoctor {
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+    background-color: #dee2ee;
+}
+
+/* Add this function to the script file of the Home.vue file
+beforeCreate: function () {
+    document.body.classList.add('home')
+} */
+body.home {
+    overflow-x: hidden;
+    font-family: "Lato", sans-serif;
+    color: #505962;
+}
+
+/* Add this function to the script file of the Booking.vue file
+beforeCreate: function () {
+    document.body.classList.add('booking')
+} */
+body.booking {
+    background: #FFF;
+    font-weight: normal;
+    position: relative;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* Add this function to the script file of the AddSchedule.vue file
+beforeCreate: function () {
+    document.body.classList.add('addschedule')
+} */
+body.addschedule {
+    background: #FFF;
+    font-weight: normal;
+    position: relative;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
